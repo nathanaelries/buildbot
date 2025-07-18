@@ -12,6 +12,8 @@ lothar . com>`_, and currently maintained by `the Botherders
 
 Visit us on http://buildbot.net !
 
+This fork adds AI enhancements for build optimization
+
 |travis-badge|_ |codecov-badge|_ |readthedocs-badge|_
 
 Buildbot consists of several components:
